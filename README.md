@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) with Python
 
-This repository contains a polished Jupyter Notebook demonstrating an end-to-end **Exploratory Data Analysis (EDA)** workflow using Python.
+This repository contains a Jupyter Notebook demonstrating an end-to-end **Exploratory Data Analysis (EDA)** workflow using Python.
 
 ## Project Overview
 The notebook uses a public roller coaster dataset to showcase practical analytics skills that transfer directly to engineering and business datasets.
@@ -34,12 +34,7 @@ After download, place `coaster_db.csv` in the same folder as the notebook.
 ## Files
 - `EDA_RollerCoaster_Polished.ipynb`
 - `README.md`
-- `LICENSE`
 
-## Why This Matters
-The same EDA workflow shown here can be applied to:
-- Supplier quality analytics
-- Manufacturing process monitoring
 - Root cause analysis
 - Materials data science
 - Predictive maintenance
